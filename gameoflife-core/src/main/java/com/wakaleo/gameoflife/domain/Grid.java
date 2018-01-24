@@ -14,7 +14,7 @@ public class Grid {
 
     private static final int DEFAULT_ROW_COUNT = 3;
     private static final int DEFAULT_COLUMN_COUNT = 3;
-	private static final String MYTEST = "mytest";
+	private static final String MYTEST = "mytest" ;
 
     private Cell[][] cells;
 
